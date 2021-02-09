@@ -11,7 +11,7 @@ Flask-SQLAlchemy==2.2
 Flask-Triangle==0.5.4
 functools32==3.2.3.post2
 itsdangerous==0.24
-Jinja2==2.9.5
+Jinja2==2.10.1
 jsonschema==2.6.0
 lxml==3.7.3
 MarkupSafe==1.0
